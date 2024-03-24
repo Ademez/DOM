@@ -1,3 +1,7 @@
+ssh -T git@github.com
+
+
+
 .card {
     border:1px solid red;
     width: 400px;
